@@ -16,5 +16,24 @@
 ## About team task management (screenshot/description)
 > https://trello.com/b/1UfUxhLG/stone-roadmap
 
-### Commit hash from master
->e91f87249d025de1b0672a12c41c06a55b34c575 
+# Game logic
+
+## Movement:
+> Default walk
+> Run
+> Crouch
+> Crawl
+> Head tilts
+
+## Shooting:
+> Reloading
+> Firing
+> Aiming 
+
+## Wall breaking:
+> Soft wall can be broken by fist, weapon, bullets
+> Reinforced wall can be broken by special gadget 
+
+## Level up:
+> Level can be increased after winning
+> Level can be decreased after losing
