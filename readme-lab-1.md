@@ -19,21 +19,21 @@
 # Game logic
 
 ## Movement:
-> Default walk
-> Run
-> Crouch
-> Crawl
+> Default walk</br>
+> Run</br>
+> Crouch</br>
+> Crawl</br>
 > Head tilts
 
 ## Shooting:
-> Reloading
-> Firing
-> Aiming 
+> Reloading</br>
+> Firing</br>
+> Aiming
 
 ## Wall breaking:
-> Soft wall can be broken by fist, weapon, bullets
+> Soft wall can be broken by fist, weapon, bullets</br>
 > Reinforced wall can be broken by special gadget 
 
 ## Level up:
-> Level can be increased after winning
+> Level can be increased after winning</br>
 > Level can be decreased after losing
