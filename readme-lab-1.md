@@ -18,6 +18,12 @@
 
 # Game logic
 
+## Genre
+> FPS
+
+## The target audience
+> Male 18-30
+
 ## Movement:
 > Default walk</br>
 > Run</br>
